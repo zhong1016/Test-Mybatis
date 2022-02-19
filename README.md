@@ -4,7 +4,24 @@ springboot mybatis sample <br>
 ### Test
 ```url
 http://localhost:8080/user
+[
+{
+id: 1,
+name: "Alley",
+age: 18,
+},
+{
+id: 2,
+name: "Lily",
+age: 20,
+},
+]
 http://localhost:8080/user?id=1
+{
+id: 1,
+name: "Alley",
+age: 18,
+}
 ```
 
 ### Spring
