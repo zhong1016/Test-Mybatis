@@ -4,6 +4,7 @@ springboot mybatis sample <br>
 ### Test
 ```url
 http://localhost:8080/user
+http://localhost:8080/user?id=1
 ```
 
 ### Spring
