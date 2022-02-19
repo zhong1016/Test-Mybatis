@@ -1,6 +1,7 @@
 # Test-Mybatis
-springboot mybatis sample
+springboot mybatis sample <br>
 
+### MySQL
 ```sql
 CREATE DATABASE  IF NOT EXISTS `user` 
 USE `user`;
