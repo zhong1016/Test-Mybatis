@@ -1,6 +1,11 @@
 # Test-Mybatis
 springboot mybatis sample <br>
 
+### Test
+```url
+http://localhost:8080/user
+```
+
 ### Spring
 ```java
 maven-archetype-quickstart
