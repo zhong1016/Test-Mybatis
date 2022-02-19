@@ -2,7 +2,7 @@
 springboot mybatis sample
 
 ```sql
-CREATE DATABASE  IF NOT EXISTS `user` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+CREATE DATABASE  IF NOT EXISTS `user` 
 USE `user`;
 DROP TABLE IF EXISTS `test`;
 CREATE TABLE `test` (
